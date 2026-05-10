@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "proplaneboi.aternos.me:23596",
+    "ip": "proplaneboi.aternos.me",
     "port": 23596,
     "version": "",
     "try-creative": false
